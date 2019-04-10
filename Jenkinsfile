@@ -1,4 +1,4 @@
-def deployBranchCheckout("cleardemand-api-deployment.git")
+def deployBranchCheckout(cleardemand-api-deployment.git)
 
 def deployBranchCheckout(String gitrepo)
 sh """
